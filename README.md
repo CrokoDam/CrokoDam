@@ -1,6 +1,6 @@
 - Hi, I’m @CrokoDam
-- I’m interested in Game development
-- I’m currently learning C#
+- I’m interested in anything that is challenging
+- I’m currently learning everything there is to learn
 
 <!---
 CrokoDam/CrokoDam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
